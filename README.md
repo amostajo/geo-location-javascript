@@ -1,6 +1,7 @@
 Geo Location Javascript (from Google)
 --------------------------------
 [![GitHub version](https://badge.fury.io/gh/amostajo%2Fgeo-location-javascript.svg)](https://badge.fury.io/gh/amostajo%2Fgeo-location-javascript)
+[![Bower version](https://badge.fury.io/bo/google-geo-location.svg)](https://badge.fury.io/bo/google-geo-location)
 
 This repo was imported from [Google Code](https://code.google.com/p/geo-location-javascript/) and modified so it is supported on *bower*.
 
